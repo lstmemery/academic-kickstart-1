@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.deepweb.me"
+baseurl = "http://www.deepweb.me/"
 
 # Title of your site
 title = "Academic"
@@ -55,10 +55,10 @@ defaultContentLanguageInSubdir = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Imbellus Inc.", url = "" } ]
+  organizations = [ { name = "Imbellus Inc.", url = "https://www.imbellus.com/#/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "matthew.emery44@gmail.com"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -145,8 +145,8 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
-  # highlight_style = "github"
+  highlight_languages = ["python"]
+  highlight_style = "github"
 
   # Enable native social sharing buttons?
   sharing = true
