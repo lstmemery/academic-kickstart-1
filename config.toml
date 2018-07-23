@@ -6,7 +6,7 @@
 baseurl = "http://www.deepweb.me/"
 
 # Title of your site
-title = "Academic"
+title = "Matthew Emery"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -59,7 +59,7 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "matthew.emery44@gmail.com"
+  email = "me@matthewemery.ca"
   # address = "Building 1 Room 1, Stanford University, California, 90210, USA"
   # office_hours = "Monday 10:00 to 13:00 or email for appointment"
   # phone = "888 888 88 88"
@@ -217,7 +217,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:matthew.emery44@gmail.com"
+    link = "mailto:me@matthewemery.ca"
 
   [[params.social]]
     icon = "twitter"
