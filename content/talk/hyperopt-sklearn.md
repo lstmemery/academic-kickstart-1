@@ -33,9 +33,9 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
+url_pdf = "/pdf/hpsklearn-pydata.pdf"
+url_slides = "/presentation/hpsklearn-pydata/#/"
+url_video = "https://www.youtube.com/watch?v=TZxg6S2pwUE"
 url_code = "https://github.com/lstmemery/hyperopt-pydata/blob/master/hpsklearnprez.ipynb"
 
 # Does the content use math formatting?
