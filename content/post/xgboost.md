@@ -3,9 +3,11 @@ title = "Why Kagglers Love XGBoost"
 date = 2017-01-21T16:26:32-07:00
 draft = false
 
+summary = "If the No Free Lunch theorem says that all algorithms preform the same across all data sets, then why does XGBoost win so many Kaggle competitions?"
+
 # Tags and categories
 # For example, use `tags = []` for no tags, or the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Machine Learning"]
 categories = []
 
 # Featured image
@@ -14,10 +16,9 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = ""
+image = "post/xgboost/xgboost.png"
 caption = ""
 preview = true
-
 +++
 One of the more delightfully named theorems in data science is called "The No Free Lunch Theorem." It states "any two algorithms are equivalent when their performance is averaged across all possible problems."(4) If that's true, why did over half of the winning solutions for the data science competition website [Kaggle](https://www.kaggle.com) in 2015 contain XGBoost?(1) How does XGBoost even work? What does it look like in action?
 
