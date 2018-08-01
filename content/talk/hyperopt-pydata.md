@@ -13,7 +13,7 @@ abstract = "Finding the perfect model for your data set is difficult. Models can
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "PyData Vancouver Meetup"
+event = "PyData Vancouver"
 event_url = "https://www.meetup.com/vanpydata/events/251999251/"
 
 # Location of event.

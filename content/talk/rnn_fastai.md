@@ -1,23 +1,23 @@
 +++
-title = "Learn Data Science by Doing Kaggle Competitions: Fraud Detection"
-date = 2018-05-31T17:18:00-07:00  # Schedule page publish date.
+title = "Intro to Deep Learning with Fast.AI: Recurrent Neural Networks"
+date = 2017-09-28T13:49:05-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-05-31T18:00:00-07:00
-time_end = 2018-05-31T20:00:00-07:00
+time_start = 2017-09-28T18:00:00-07:00
+time_end = 2017-09-28T20:00:00-07:00
 
 # Abstract and optional shortened version.
-abstract = "How do you build machine learning algorithms that scale to 100s of millions of data points? This talk will show you big data strategies to detect fraudulent clicks in China's largest mobile market."
+abstract = "This presentation serves as an introduction to recurrent neural networks and is a review of Fast.ai's lesson 6."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Learn Data Science by Doing Kaggle Competitions"
-event_url = "https://www.meetup.com/LearnDataScience/events/bmcntlyxhbpc/"
+event = "Intro to Deep Learning with Fast.AI"
+event_url = "https://www.meetup.com/LearnDataScience/events/tnkqknywmblc/"
 
 # Location of event.
-location = "555 W Hastings St, Vancouver, BC, V6B 4N4, ca"
+location = "Boeing Vancouver Labs"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -30,13 +30,13 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning", "Big Data"]
+tags = []
 
 # Links (optional).
-url_pdf = "/pdf/talking-data.pdf"
-url_slides = "/presentation/talking-data/#"
-url_video = "https://www.youtube.com/watch?v=kzkQTPeZPQ4"
-url_code = "https://github.com/lstmemery/talking_data_presentation/blob/master/Talking%20Data%20Presentation.ipynb"
+url_pdf = "/pdf/rnn_fastai.pdf"
+url_slides = ""
+url_video = ""
+url_code = "https://github.com/lstmemery/rnn_presentation"
 
 # Does the content use math formatting?
 math = false
@@ -47,7 +47,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "presentation/talkingdata/click_farmer_header.jpg"
+image = ""
 caption = ""
 
 +++

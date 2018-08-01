@@ -1,23 +1,23 @@
 +++
-title = "Learn Data Science by Doing Kaggle Competitions: Fraud Detection"
-date = 2018-05-31T17:18:00-07:00  # Schedule page publish date.
+title = "The Automated Data Scientist: Tools for Feature and Model Discovery"
+date = 2018-04-25T14:11:38-07:00  # Schedule page publish date.
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2018-05-31T18:00:00-07:00
-time_end = 2018-05-31T20:00:00-07:00
+time_start = 2018-04-25T17:00:00-07:00
+time_end = 2018-04-25T18:00:00-07:00
 
 # Abstract and optional shortened version.
-abstract = "How do you build machine learning algorithms that scale to 100s of millions of data points? This talk will show you big data strategies to detect fraudulent clicks in China's largest mobile market."
+abstract = "As data scientists, your time is expensive but computation time is cheap. Matthew Emery will share how to leverage Python libraries to automate basic feature engineering and model selection tasks. Spend more time on the hard problems and let your computer find the best model for your data."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Learn Data Science by Doing Kaggle Competitions"
-event_url = "https://www.meetup.com/LearnDataScience/events/bmcntlyxhbpc/"
+event = "Metis: Seattle Data Science"
+event_url = "https://www.meetup.com/Metis-Seattle-Data-Science/events/249996728/"
 
 # Location of event.
-location = "555 W Hastings St, Vancouver, BC, V6B 4N4, ca"
+location = "Seattle"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -30,13 +30,13 @@ projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning", "Big Data"]
+tags = []
 
 # Links (optional).
-url_pdf = "/pdf/talking-data.pdf"
-url_slides = "/presentation/talking-data/#"
-url_video = "https://www.youtube.com/watch?v=kzkQTPeZPQ4"
-url_code = "https://github.com/lstmemery/talking_data_presentation/blob/master/Talking%20Data%20Presentation.ipynb"
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = "https://github.com/lstmemery/automl-talk/blob/master/featuretools_demo.ipynb"
 
 # Does the content use math formatting?
 math = false
@@ -47,7 +47,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "presentation/talkingdata/click_farmer_header.jpg"
+image = ""
 caption = ""
 
 +++
