@@ -1,6 +1,6 @@
 +++
-title = "Pommerman"
-date = 2018-08-01T10:50:12-07:00
+title = "Hyperopt-Sklearn"
+date = 2018-08-01T14:26:25-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -8,13 +8,13 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Pommerman is stylistically similar to Bomberman, the famous game from Nintendo. I am currently in a team competing to create the best multi-agent agents for Pommerman. I will release code after the competition ends."
+summary = "This is a fork of the scikit-learn wrapper for hyperopt, a hyperparameter optimization library. This fork is Python 3 compliant and contains more cross-validation options."
 
 # Optional image to display on homepage.
-image_preview = "project/pommerman/pommerman.gif"
+image_preview = "project/hpsklearn/hpsklearn.png"
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://www.pommerman.com/"
+external_link = ""
 
 # Does the project detail page use math formatting?
 math = false
