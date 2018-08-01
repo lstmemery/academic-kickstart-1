@@ -30,4 +30,4 @@ weight = 5
 
 # Biography
 
-I am a data scientist and software developer living in Vancouver. I work at [Imbellus Inc.](https://www.imbellus.com). We infer problem solving ability through simulation-based assessments.  I have presented at multiple meetups on topics such computer vision, deep learning and big data technologies. 
+I am a data scientist and software developer living in Vancouver. I work at [Imbellus Inc.](https://www.imbellus.com). We infer problem-solving ability through simulation-based assessments.  I have presented at multiple meetups on topics such computer vision, deep learning and big data technologies. 
