@@ -15,3 +15,4 @@ autolink = true
 
 +++
 
+I am available as a data science consultant. Please send your project proposal to the email below.
