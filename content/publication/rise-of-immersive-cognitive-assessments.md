@@ -43,7 +43,7 @@ projects = []
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://link.springer.com/chapter/10.1007/978-3-319-93846-2_82"
 url_preprint = ""
 url_code = ""
 url_dataset = ""

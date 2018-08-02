@@ -8,7 +8,7 @@ draft = false
 tags = []
 
 # Project summary to display on homepage.
-summary = "Pommerman is stylistically similar to Bomberman, the famous game from Nintendo. I am currently in a team competing to create the best multi-agent reinforcement learning models for Pommerman. I will release code after the competition ends."
+summary = "Pommerman is stylistically similar to Bomberman, the famous game from Hudson Soft. I am currently in a team competing to create the best multi-agent reinforcement learning models for Pommerman. I will release code after the competition ends."
 
 # Optional image to display on homepage.
 image_preview = "project/pommerman/pommerman.gif"
