@@ -1,7 +1,6 @@
 +++
-title = "Identification of Sample Comparability Issues During the Iterative 
-Design of Game-Based Cognitive Assessments"
-date = 2018-12-2T15:19:06-07:00
+title = "Identification of Sample Comparability Issues During the Iterative Design of Game-Based Cognitive Assessments"
+date = 2018-12-02T15:19:06-07:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -20,22 +19,11 @@ authors = ["Rebecca Kantar", "David Laing", "Matthew Emery", "Sonia Doshi",
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Proceedings of the 9th International Conference Learning 
-Analytics & Knowledge Conference"
+publication = "Proceedings of the 9th International Conference Learning Analytics & Knowledge Conference"
 publication_short = "LAK 2019"
 
 # Abstract and optional shortened version.
-abstract = "Imbellus develops cognitive assessments designed to evaluate the 
-skills and abilities of its users within the context of game-based 
-simulations. This paper describes work from our ongoing collaboration with a
-best-in-class management consulting firm, McKinsey & Company, to build a 
-simulation-based assessment that evaluates applicants' cognitive skills and 
-abilities. A major challenge inherent in producing a game-based cognitive 
-assessment in an industry setting is to balance the need for iterative design 
-improvements and the need for validation with large samples. The work 
-presented here describes a four-step process for assessing the impact of a 
-given design change on the comparability of pre-change and post-change 
-samples. We also discuss implications and future work. "
+abstract = "Imbellus develops cognitive assessments designed to evaluate the skills and abilities of its users within the context of game-based simulations. This paper describes work from our ongoing collaboration with a best-in-class management consulting firm, McKinsey & Company, to build a simulation-based assessment that evaluates applicants' cognitive skills and abilities. A major challenge inherent in producing a game-based cognitive assessment in an industry setting is to balance the need for iterative design improvements and the need for validation with large samples. The work presented here describes a four-step process for assessing the impact of a given design change on the comparability of pre-change and post-change samples. We also discuss implications and future work."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
