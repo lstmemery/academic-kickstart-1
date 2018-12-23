@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
+    "Bayesian Inference",
     "Natural Language Processing",
-    "Data Visualization",
-    "Reinforcement Learning"
+    "Data Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
