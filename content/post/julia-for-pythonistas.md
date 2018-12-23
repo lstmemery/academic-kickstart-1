@@ -14,7 +14,7 @@ categories = []
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "/post/julia/logo.svg"
+image = "/post/julia/logo.svg.png"
 caption = "A few neat features of the Julia programming language."
 preview = true
 
