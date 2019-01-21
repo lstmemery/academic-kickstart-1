@@ -1,5 +1,5 @@
 +++
-title = "Hands-On Session on Data Science in Public Health"
+title = "A First Glance at Medical Computer Vision Neural Networks with R and Keras"
 date = 2018-12-22T13:43:36-07:00  # Schedule page publish date.
 draft = false
 
