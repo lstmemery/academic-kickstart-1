@@ -9,11 +9,11 @@ time_start = 2019-02-12T13:00:00-07:00
 time_end = 2019-02-12T15:00:00-07:00
 
 # Abstract and optional shortened version.
-abstract = "TBD"
+abstract = "Recent advances in hardware and software have made neural networks a practical tool in many technical fields, including medicine. This workshop will introduce you to the basics of neural networks for computer vision as well as showing you how to adapt existing networks made by companies like Google to your research. As a toy example, we will build a neural network that can classify whether an X-ray is of a chest or abdomen. The workshop will be taught in the high-level neural network framework Keras and R."
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = "Hands-On Session on Data Science in Public Health"
+event = "A First Glance at Medical Computer Vision Neural Networks with R and Keras"
 event_url = ""
 
 # Location of event.
