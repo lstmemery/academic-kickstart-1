@@ -9,7 +9,7 @@ time_start = 2019-03-20T12:00:00-07:00
 time_end = 2019-03-20T13:00:00-07:00
 
 # Abstract and optional shortened version.
-abstract = ""All models are wrong, but some are useful" is one of the most quoted phrases in data science, but how do we even know if a model is useful? This talk will introduce you to the tools used to validate models. We will also discuss the two most common challenges when it comes to validating a model: data leakage and optimization bias. All examples will be in Python3, Jupyter and Sci-Kit Learn."
+abstract = "'All models are wrong, but some are useful' is one of the most quoted phrases in data science, but how do we even know if a model is useful? This talk will introduce you to the tools used to validate models. We will also discuss the two most common challenges when it comes to validating a model: data leakage and optimization bias. All examples will be in Python3, Jupyter and Sci-Kit Learn."
 abstract_short = ""
 
 # Name of event and optional event URL.
