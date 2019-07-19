@@ -1,7 +1,7 @@
 +++
 title = "Know How to Know What Your Model Knows: An Introduction to Validation"
 date = 2019-01-21T10:12:46-08:00  # Schedule page publish date.
-draft = false
+draft = true
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -20,7 +20,7 @@ event = "How to Know What Your Model Knows: An Introduction to Validation"
 event_url = "https://www.meetup.com/DevhubVancouver/events/259311394/"
 
 # Location of event.
-location = "DevHub, 401 West Georgia Street"
+location = "DevHub, 401 West Georgia Street, Vancouver BC"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -43,13 +43,19 @@ slides = ""
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Introductory"]
 
 # Links (optional).
 url_pdf = "/pdf/model-validation.pdf"
 url_slides = ""
 url_video = ""
 url_code = "https://github.com/lstmemery/lunch-and-learn-validation/blob/master/model-validation.ipynb"
+
+# Does the content use math formatting?
+math = true
+
+# Does the content use source code highlighting?
+highlight = true
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
