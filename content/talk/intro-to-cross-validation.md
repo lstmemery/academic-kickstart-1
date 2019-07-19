@@ -1,12 +1,12 @@
 +++
 title = "Know How to Know What Your Model Knows: An Introduction to Validation"
 date = 2019-01-21T10:12:46-08:00  # Schedule page publish date.
-draft = true
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-01-21T10:12:46-08:00
-time_end = 2019-01-21T10:12:46-08:00
+time_start = 2019-03-20T12:00:00-08:00
+time_end = 2019-03-20T13:00:00-08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Matthew Emery"]
@@ -16,11 +16,11 @@ abstract = "'All models are wrong, but some are useful.' is one of the most quot
 abstract_short = ""
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "How to Know What Your Model Knows: An Introduction to Validation"
+event_url = "https://www.meetup.com/DevhubVancouver/events/259311394/"
 
 # Location of event.
-location = ""
+location = "DevHub, 401 West Georgia Street"
 
 # Is this a selected talk? (true/false)
 selected = false
@@ -46,10 +46,10 @@ slides = ""
 tags = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "/pdf/model-validation.pdf"
 url_slides = ""
 url_video = ""
-url_code = ""
+url_code = "https://github.com/lstmemery/lunch-and-learn-validation/blob/master/model-validation.ipynb"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
