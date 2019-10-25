@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.matthewemery.ca/"
+baseurl = "https://www.matthewemery.ca/"
 
 # Title of your site
 title = "Matthew Emery"
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Matthew Emery"
-  role = "Data Scientist"
+  role = "Senior Data Scientist"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
